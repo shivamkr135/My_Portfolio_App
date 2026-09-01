@@ -1,4 +1,4 @@
-# ⚡ Shivam's Portfolio 
+# ⚡ Shivam.dev 
 
 A full-stack, responsive portfolio website built with the **MERN** stack (MongoDB, Express, React, Node.js). Features dynamic project rendering from MongoDB, an automated contact form
 
